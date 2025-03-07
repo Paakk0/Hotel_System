@@ -1,0 +1,633 @@
+<Hotel>
+	<Room Number="1">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>note</Note>
+		<Reservations>
+			<Reservation>
+				<DateFrom>2024-10-10</DateFrom>
+				<DateTo>2024-10-20</DateTo>
+				<GuestDetails>
+					<Guests>
+						<Identity>family</Identity>
+						<NumberOfGuests>5</NumberOfGuests>
+						<Events>
+							<Event>1</Event>
+						</Events>
+					</Guests>
+				</GuestDetails>
+			</Reservation>
+		</Reservations>
+	</Room>
+	<Room Number="2">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="3">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="4">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="5">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="6">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="7">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="8">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="9">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="10">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="11">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="12">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="13">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="14">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="15">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="16">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="17">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="18">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="19">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="20">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="21">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="22">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="23">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="24">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="25">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="26">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="27">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="28">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="29">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="30">
+		<NumberOfBeds>5</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="100">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="101">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="102">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="103">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="104">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="105">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="106">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="107">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="108">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="109">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="110">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="111">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="112">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="113">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="114">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="115">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="116">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="117">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="118">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="119">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="120">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="121">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="122">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="123">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="124">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="125">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="126">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="127">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="128">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="129">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="130">
+		<NumberOfBeds>4</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="200">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="201">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="202">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="203">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="204">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="205">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="206">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="207">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="208">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="209">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="210">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="211">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="212">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="213">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="214">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="215">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="216">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="217">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="218">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="219">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="220">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="221">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="222">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="223">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="224">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="225">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="226">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="227">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="228">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="229">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="230">
+		<NumberOfBeds>3</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="300">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="301">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="302">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="303">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="304">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="305">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="306">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="307">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="308">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="309">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="310">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="311">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="312">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="313">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="314">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="315">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="316">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="317">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="318">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="319">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="320">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="321">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="322">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="323">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="324">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="325">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="326">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="327">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="328">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="329">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="330">
+		<NumberOfBeds>2</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="400">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="401">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="402">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="403">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="404">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="405">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="406">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="407">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="408">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="409">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="410">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="411">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="412">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="413">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="414">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="415">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="416">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="417">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="418">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="419">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="420">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="421">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="422">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="423">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="424">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="425">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="426">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="427">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="428">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="429">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+	<Room Number="430">
+		<NumberOfBeds>1</NumberOfBeds>
+		<Note>null</Note>
+	</Room>
+</Hotel>
